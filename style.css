@@ -77,7 +77,7 @@ body {
   min-height: 100vh;
   display: flex;
   align-items: center;
-  background-image: url("../GAYATAMA/img/landingpage.jpg");
+  background-image: url("landingpage.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
